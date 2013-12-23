@@ -1,0 +1,35 @@
+{
+  "sources": {
+    "apt": {
+      "locked_version": "2.3.0"
+    },
+    "apache2": {
+      "locked_version": "1.8.14"
+    },
+    "runit": {
+      "locked_version": "1.4.0"
+    },
+    "graphite": {
+      "locked_version": "0.4.3",
+      "git": "git://github.com/hw-cookbooks/graphite.git",
+      "ref": "18f817380e45368288cfe1448d43be9e8163d16d"
+    },
+    "python": {
+      "locked_version": "1.0.2",
+      "git": "git://github.com/fnichol/chef-python.git",
+      "ref": "33a3dd784a02cc0d33385585ee995bf2ee752ffa"
+    },
+    "build-essential": {
+      "locked_version": "1.4.2"
+    },
+    "yum": {
+      "locked_version": "3.0.2"
+    },
+    "memcached": {
+      "locked_version": "1.7.0"
+    },
+    "yum-epel": {
+      "locked_version": "0.2.0"
+    }
+  }
+}
